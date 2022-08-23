@@ -1,0 +1,11 @@
+"""CREATE TABLE IF NOT EXISTS m_chat_id(
+
+rowid INTEGER PRIMARY KEY,
+m_chat_id INTEGER, fio TEXT,
+guest_fio TEXT,
+date INTEGER,
+term INTEGER,
+status INTEGER
+
+
+)"""
